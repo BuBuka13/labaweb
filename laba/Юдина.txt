@@ -1,0 +1,4 @@
+сервер localhost
+user root
+пароль boltik4704QlramS_t
+бд test
